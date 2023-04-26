@@ -1,0 +1,1 @@
+After extracting the workh folder, place it with the code_model_thermodynamic.m file togrther. Run code_model_thermodynamic.m in matlab software.
